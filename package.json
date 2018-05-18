@@ -1,0 +1,22 @@
+{
+  "name": "next-js-example",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eeduardomelo/next-js-example.git"
+  },
+  "author": "eduardo",
+  "license": "ISC",
+  "devDependencies": {
+    "next": "^6.0.3",
+    "react": "^16.3.2",
+    "react-dom": "^16.3.2"
+  }
+}
